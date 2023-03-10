@@ -1,0 +1,17 @@
+.image-container {
+    position: relative;
+}
+
+.image-2 {
+    position: absolute;
+    top: 25%;
+    left: -14%;
+    transform: translate(-50%, -50%);
+}
+
+.image-3 {
+    position: absolute;
+    top: 60%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
